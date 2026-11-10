@@ -1,0 +1,12 @@
+
+Topic: Database Management System
+
+A Database Management System (DBMS) is software used to store, retrieve, and manage data.
+
+A primary key uniquely identifies each record in a table.
+
+A foreign key links records between related tables.
+
+Normalization reduces data redundancy and improves data integrity.
+
+SQL is used to query and manipulate relational databases.

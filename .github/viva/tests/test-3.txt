@@ -1,0 +1,12 @@
+
+Topic: Hydrodynamic Stability
+
+Hydrodynamic stability studies whether small disturbances in fluid flow grow or decay.
+
+The Rayleigh number measures the strength of buoyancy-driven thermal convection relative to dissipative effects.
+
+The critical Rayleigh number is the threshold at which instability begins.
+
+Linear stability analysis investigates the behavior of infinitesimally small disturbances.
+
+Nonlinear stability analysis considers finite-amplitude disturbances and nonlinear effects.

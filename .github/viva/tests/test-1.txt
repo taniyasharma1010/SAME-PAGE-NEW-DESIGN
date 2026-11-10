@@ -1,0 +1,17 @@
+
+Topic: Artificial Neural Networks
+
+An Artificial Neural Network (ANN) is a machine learning model inspired by biological neurons.
+
+An ANN contains an input layer, hidden layers, and an output layer.
+
+Activation functions introduce nonlinearity into the neural network.
+
+
+
+
+
+Gradient descent updates the weights to minimize the loss
+
+
+Backpropagation calculates gradients of the loss function with respect to the weights..
